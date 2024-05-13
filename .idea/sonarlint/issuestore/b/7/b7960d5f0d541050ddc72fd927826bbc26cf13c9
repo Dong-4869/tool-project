@@ -1,0 +1,17 @@
+
+±
+java:S1192Ç"mDefine a constant instead of duplicating this literal "--------------------------------------------" 5 times.(·ƒÀ°8š²çö1J$bcb9f707-1da1-49a2-8991-4e347be05247
+œ	java:S135™"YReduce the total number of break and continue statements in this loop to use at most one.(ÅäÈÀ8›²çö1J$66726744-e70d-4912-89d5-059837803338
+•	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾û¥àÿÿÿÿÿ8Å²çö1J$3e30f4b6-ede1-43c0-90a1-60eb29536017
+•	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„±ĞÇøÿÿÿÿ8Å²çö1J$62d53505-0ebd-495d-b62a-a542cd7618fa
+s
+java:S1611•"/Remove the parentheses around the "e" parameter(Ó²©ƒ8øñ²çö1J$b87d1ce5-c927-466a-8b80-b1b73a831e51
+u
+java:S1602—",Remove useless curly braces around statement(Ä®öÿÿÿÿÿ8ùñ²çö1J$ad2230c5-8ff6-464b-869d-4a07ee53eec0
+o
+java:S1168ê"+Return an empty collection instead of null.(¥¹ï8ƒò²çö1J$62467464-f1cb-4c48-b818-203d5834abdd
+o
+java:S1168Ù"+Return an empty collection instead of null.(¥¹ï8ˆò²çö1J$ed7cf8db-5227-4862-ad9d-b67400d40f95
+„	java:S125·"<This block of commented-out lines of code should be removed.(¯æÙÿÿÿÿÿ8ò²çö1J$630411ca-42bb-4df1-bf0b-f35268483f3e
+„	java:S125Ş"<This block of commented-out lines of code should be removed.(ù”ãııÿÿÿÿ8ó²çö1J$060b56ea-dc0c-4517-b876-a70148e62b76
+~	java:S125ë"<This block of commented-out lines of code should be removed.(‰Ğè8ó²çö1J$0812c1c7-0bca-4c37-8cdb-385cd710cda2
